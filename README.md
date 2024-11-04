@@ -20,7 +20,7 @@ This pipeline downloads Sentinel-1 data for a specified region and date range, p
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/mcmjasir/Sen_stack_processor.git
-   cd Sen_stack_auto
+   cd Sen_stack_processor
    ```
 
 2. **Run the pipeline**:
